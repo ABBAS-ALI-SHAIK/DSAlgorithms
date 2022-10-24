@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Data Structures & Algorithms for Coding Interview</h1>
-<b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b>
+
 </div>
 
 
